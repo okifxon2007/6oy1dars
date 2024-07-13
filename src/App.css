@@ -1,0 +1,88 @@
+*{
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+}
+.conta{
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1200px;
+}
+.header img{
+  margin-top: 30px;
+  transform: translateY(10px);
+}
+.header input{
+  margin-left: 75px;
+  width: 450px;
+  height: 38px;
+  border-radius: 15px;
+  padding: 16px;
+  border: 1px solid silver;
+  background-color: rgb(239, 239, 239);
+  color: black;
+}
+.header select{
+  border: 1px solid transparent;
+  margin-left: 85px;
+  
+}
+.select2{
+  color: #4374F0;
+}
+.main select{
+  font-size: 18px;
+  color: rgb(72, 72, 72);
+  border: 1px solid transparent;
+  margin-left: 25px;
+}
+.main img{
+  
+  margin-left: 95px;
+}
+.main{
+  margin-top: 30px;
+}
+.onepage button{
+  background-color: #E5EDFF;
+  width: 300px;
+  height: 35px;
+  border: 2px solid transparent;
+  border-radius: 18px;
+}
+.onepage{
+  margin-top: 70px;
+}
+.onepage h1{
+  font-size: 50px;
+  width: 470px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #181E4B;
+}
+.onepage img{
+  margin-top: 30px;
+
+}
+.onepage span{
+  color: #4170E8;
+}
+.onepage p{
+  margin-top: 30px;
+  margin-right: 70px;
+  width: 400px;
+  color: rgb(66, 66, 66);
+}
+.main2{
+  display: flex;
+  margin-top: 100px;
+}
+.maind4df{
+  display: flex;
+}
+.main4 h3{
+  color: #4170E8;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main4 h1{
+  color: #181E4B;
+}
